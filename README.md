@@ -19,5 +19,5 @@
 </div>
 <br/>
 <div>
-      <img src="/Screenshot/7.png" width="800" height="800">
+      <img src="/Screenshot/7.png" width="1000" height="700">
 </div>
