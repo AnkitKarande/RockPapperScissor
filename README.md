@@ -4,17 +4,26 @@
 
 <h3>Screenshots</h3>
 <div>
-      <img src="/Screenshot/1.png">
+      <img src="/Screenshot/1.png"> 
+</div>
+<br/>
+<div>
       <img src="/Screenshot/2.png">
 </div>
 <br/>
 <div>
       <img src="/Screenshot/3.png">
+</div>
+<br/>
+<div>
       <img src="/Screenshot/4.png">
 </div>
 <br/>
 <div>
       <img src="/Screenshot/5.png">
+</div>
+<br/>
+<div>
       <img src="/Screenshot/6.png">
 </div>
 <br/>
