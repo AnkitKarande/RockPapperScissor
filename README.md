@@ -4,8 +4,8 @@
 
 <h3>Screenshots</h3>
 <div>
-      <img src="/Screenshot/1.png" width="500">
-      <img src="/Screenshot/2.png" width="500">
+      <img src="/Screenshot/1.png" width="500" height="500">
+      <img src="/Screenshot/2.png" width="500" height="500">
 </div>
 <br/>
 <div>
